@@ -34,8 +34,9 @@ const Photo = props => {
 
 };
 Component.defaultProps = {
-    fullName: "",
-    profession : "",
+    fullName: "user ",
+    profession : "job",
+    age:"age"
     
    };
    
